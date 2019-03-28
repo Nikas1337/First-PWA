@@ -1,4 +1,4 @@
-var cacheName = 'weatherPWA-v4';
+var cacheName = 'weatherPWA-v5';
 var filesToCache = [
     '/First-PWA/index.html',
     '/First-PWA/scripts/app.js',
