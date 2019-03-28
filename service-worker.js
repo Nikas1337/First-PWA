@@ -1,6 +1,6 @@
 var cacheName = 'weatherPWA-v4';
 var filesToCache = [
-    '/index.html',
+    'index.html',
     'scripts/app.js',
     'scripts/localforage.js',
     'images/clear.png',
