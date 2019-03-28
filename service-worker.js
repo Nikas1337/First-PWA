@@ -1,6 +1,6 @@
 var cacheName = 'weatherPWA-v4';
 var filesToCache = [
-    './index.html'
+    '/First-PWA/index.html'
 ];
 
 self.addEventListener('install', function (e) {
