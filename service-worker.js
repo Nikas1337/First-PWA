@@ -15,7 +15,8 @@ var filesToCache = [
     '/First-PWA/images/sleet.png',
     '/First-PWA/images/snow.png',
     '/First-PWA/images/thunderstorm.png',
-    '/First-PWA/images/wind.png'
+    '/First-PWA/images/wind.png',
+    '/First-PWA/manifest.json'
 ];
 
 self.addEventListener('install', function (e) {
