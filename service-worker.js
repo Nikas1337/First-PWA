@@ -1,6 +1,6 @@
 var cacheName = 'weatherPWA-v5';
 var filesToCache = [
-    '/First-PWA/',
+    '/First-PWA/*.json',
     '/First-PWA/index.html',
     '/First-PWA/scripts/app.js',
     '/First-PWA/scripts/localforage.js',
